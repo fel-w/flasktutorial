@@ -8,7 +8,7 @@ body, html {
     width: 400px;
 }
 
-.content > h1 {
+.content > h1, .content > h4 {
     text-align: center;
 }
 
